@@ -5,7 +5,7 @@ In a further step, these extracted commands will be used as flight instructions 
 
 Here what the whole looks like :
 ```
-              |/_   ))))) RF 433MHz ))))    _\/
+              \/_   ))))) RF 433MHz ))))    _\/
               /                               \
    +----------+                                +---------+
    | Arduino  |                                | Arduino |
